@@ -1,4 +1,4 @@
-# 🎮 Pokémon Explorer & Merch Store
+# 🎮 Pokémon Project
 
 A fun Pokémon-themed website built using HTML, CSS, Bootstrap, and JavaScript.
 This project allows users to search for Pokémon using the Pokémon API and explore Pokémon merchandise through a simple online store interface.
